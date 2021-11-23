@@ -1,4 +1,45 @@
+### Termos de uso
 
+Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do Manual da Pessoa Estudante da Trybe.
+
+---
+
+# Boas vindas ao repositório do projeto de Receitas!
+
+Você já usa o GitHub diariamente para desenvolver os exercícios, certo? Agora, para desenvolver os projetos, você deverá seguir as instruções a seguir. Fique atento a cada passo, e se tiver qualquer dúvida, nos envie por _Slack_! #vqv 🚀
+
+Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu projeto a partir desse repositório, utilizando uma branch específica e um _Pull Request_ para colocar seus códigos.
+
+---
+
+# Sumário
+
+- [Habilidades](#habilidades)
+
+- [Entregáveis](#entregáveis)
+  - [O que deverá ser desenvolvido](#o-que-deverá-ser-desenvolvido)
+    - [Protótipo do projeto](#protótipo-do-projeto)
+  - [Desenvolvimento](#desenvolvimento)
+  - [Data de entrega](#data-de-entrega)
+
+- [Instruções para entregar seu projeto](#instruções-para-entregar-seu-projeto)
+  - [Antes de começar a desenvolver](#antes-de-começar-a-desenvolver)
+  - [Durante o desenvolvimento](#durante-o-desenvolvimento)
+
+- [Como desenvolver](#como-desenvolver)
+  - [Linter](#linter)
+  - [Execução de testes de requisito](#execução-de-testes-de-requisito)
+  - [APIs](#apis)
+    - [TheMealDB API](#themealdb-api)
+    - [The CockTailDB API](#the-cocktaildb-api)
+
+- [Requisitos do projeto](#requisitos-do-projeto)
+  - [Observações técnicas](#observações-técnicas)
+    - [Rotas](#rotas)
+    - [localStorage](#localstorage)
+    - [Ícones](#ícones)
+    - [Biblioteca clipboard-copy](#biblioteca-clipboard-copy)
+    - [Biblioteca Bootstrap (opcional)](#biblioteca-bootstrap-opcional)
   - [Lista de requisitos](#lista-de-requisitos)
   
   <details>
