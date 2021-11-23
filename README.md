@@ -10,6 +10,9 @@ Em um projeto em grupo solicitado pela Trybe durante o curso de desenvolvimento 
 É um projeto com 87 requisitos, diferentes funcionalidades, componentes e páginas em que foram investidos +10dias de trabalho.
 
 
+*CSS feito para Mobile*
+
+
 # Sumário
 
 - [Habilidades](#habilidades)
